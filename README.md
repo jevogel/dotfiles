@@ -1,5 +1,5 @@
 # dotfiles
-My dotfiles.
+My dotfiles. Methodology via [Ask HN: What do you use to manage dotfiles?](https://news.ycombinator.com/item?id=11070797)
 
 # Set Up Dotfile Tracking
     git init --bare $HOME/.myconf
