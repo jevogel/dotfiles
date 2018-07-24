@@ -13,9 +13,9 @@ set undodir=~/.vim/.undo//
 
 " Tabs (gg=G to reindent file, :retab to change all <Tab>s to spaces)
 set expandtab " (et) expand <tab> to spaces
-set tabstop=2 " (ts) width (in spaces) that a <Tab> is displayed as
-set shiftwidth=2 " (sw) width used in each step of autoindent, >>, <<
-set softtabstop=2
+set tabstop=4 " (ts) width (in spaces) that a <Tab> is displayed as
+set shiftwidth=4 " (sw) width used in each step of autoindent, >>, <<
+set softtabstop=4
 set autoindent " automatically indents on <Enter>
 set smartindent " syntax-aware autoindent
 
@@ -27,7 +27,7 @@ set smartindent " syntax-aware autoindent
 " :set et
 " :%retab! " <Tab>s are now spaces with new size
 
-" Display 
+" Display
 syntax on
 filetype plugin indent on
 set number

@@ -1,1 +1,1 @@
-/home/jimmy/.local/share/omf/themes/nelsonjchen/fish_prompt.fish
+/cygdrive/c/Users/usjvog/.local/share/omf/themes/nelsonjchen/fish_prompt.fish
