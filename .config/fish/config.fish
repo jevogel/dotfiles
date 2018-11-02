@@ -1,5 +1,6 @@
 # Set environment variables
-set -gx PATH "/cygdrive/c/Users/usjvog/.local/bin" $PATH
+alias config '/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
+set -gx PATH "$HOME/.local/bin" $PATH
 set -gx SHELL "/bin/fish"
 
 # Path to Oh My Fish install.
